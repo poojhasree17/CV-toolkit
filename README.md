@@ -254,8 +254,13 @@ that cluster as one.
 ---
 
 ## Screenshots
+## Results
 
-> **Placeholder** — add screenshots here, e.g.:
+### Coin Detection
+![Coin detection result](output/coins_result.jpg)
+
+### Fruit Segmentation
+![Fruit segmentation result](output/fruit_segmentation_result.jpg)
 
 ```
 ![Coin detection](output/coins_result.jpg)
