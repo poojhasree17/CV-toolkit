@@ -260,11 +260,9 @@ that cluster as one.
 ![Coin detection result](segmentation/cv_vision_toolkit/output/coins_result.jpg)
 
 ### Fruit Segmentation
-![Fruit segmentation result](output/fruit_segmentation_result.jpg)
+![Fruit segmentation result](segmentation/cv_vision_toolkit/output/fruit_segmentation_result.jpg)
 
 ```
-![Coin detection](output/coins_result.jpg)
-![Fruit segmentation comparison](output/fruit_segmentation_result.jpg)
 ```
 
 The pipeline automatically writes annotated images to the `output/` folder
