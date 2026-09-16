@@ -257,7 +257,7 @@ that cluster as one.
 ## Results
 
 ### Coin Detection
-![Coin detection result](output/coins_result.jpg)
+![Coin detection result](segmentation/cv_vision_toolkit/output/coins_result.jpg)
 
 ### Fruit Segmentation
 ![Fruit segmentation result](output/fruit_segmentation_result.jpg)
